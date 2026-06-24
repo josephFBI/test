@@ -2,7 +2,7 @@
   "aplicacion": {
     "nombre": "Sistema de Gestor de Clases",
     "version": "1.0.0",
-    "fecha_instalacion": "2026-06-23T15:47:27.444887"
+    "fecha_instalacion": "2026-06-24T08:52:14.173559"
   },
   "rutas": {
     "base": "user_data",

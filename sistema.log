@@ -7,3 +7,12 @@
 2026-06-23 15:47:27,453 - project_manager - INFO - Proyecto creado: 41a34c75-9e32-4d67-aa15-986c5a06c3d4
 2026-06-23 15:47:27,454 - __main__ - INFO - Proyecto de ejemplo creado: 41a34c75-9e32-4d67-aa15-986c5a06c3d4
 2026-06-23 15:47:27,454 - __main__ - INFO - Inicialización completada exitosamente
+2026-06-24 08:52:14,169 - __main__ - INFO - Estructura de carpetas creada exitosamente
+2026-06-24 08:52:14,173 - database - INFO - Base de datos inicializada en user_data/database/app.db
+2026-06-24 08:52:14,173 - __main__ - INFO - Base de datos SQLite inicializada
+2026-06-24 08:52:14,173 - __main__ - INFO - Archivo de configuración creado
+2026-06-24 08:52:14,174 - project_manager - INFO - ProjectManager inicializado en user_data
+2026-06-24 08:52:14,174 - project_manager - INFO - Estructura JSON creada para proyecto 7393762f-eb1a-4da1-950c-db467bdbd7af
+2026-06-24 08:52:14,215 - project_manager - INFO - Proyecto creado: 7393762f-eb1a-4da1-950c-db467bdbd7af
+2026-06-24 08:52:14,215 - __main__ - INFO - Proyecto de ejemplo creado: 7393762f-eb1a-4da1-950c-db467bdbd7af
+2026-06-24 08:52:14,215 - __main__ - INFO - Inicialización completada exitosamente

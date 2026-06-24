@@ -1,0 +1,16 @@
+{
+  "id": "7393762f-eb1a-4da1-950c-db467bdbd7af",
+  "titulo": "Ejemplo: Introducción a la Programación",
+  "descripcion": "",
+  "rol": "docente",
+  "perfil_edad": "adulto",
+  "fecha_creacion": "2026-06-24T08:52:14.174681",
+  "duracion_segundos": 0,
+  "config": {
+    "idioma": "es",
+    "modelo_whisper": "tiny",
+    "filtro_ruido": true,
+    "segmentar_silencios": true
+  },
+  "etiquetas": []
+}

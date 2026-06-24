@@ -1,0 +1,16 @@
+{
+  "id": "41de47a3-6cf7-47ee-910b-3e94a1bc6756",
+  "titulo": "string",
+  "descripcion": "",
+  "rol": "alumno",
+  "perfil_edad": "adolescente",
+  "fecha_creacion": "2026-06-24T09:05:48.111788",
+  "duracion_segundos": 0,
+  "config": {
+    "idioma": "es",
+    "modelo_whisper": "tiny",
+    "filtro_ruido": true,
+    "segmentar_silencios": true
+  },
+  "etiquetas": []
+}
