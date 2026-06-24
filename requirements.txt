@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Procesamiento de audio (opcional pero recomendado)
+# whisper==1.0
+# librosa==0.10.0
+# scipy==1.11.4
+# numpy==1.24.3
+
+# Utilidades
+python-dotenv==1.0.0

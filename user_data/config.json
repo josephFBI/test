@@ -1,0 +1,28 @@
+{
+  "aplicacion": {
+    "nombre": "Sistema de Gestor de Clases",
+    "version": "1.0.0",
+    "fecha_instalacion": "2026-06-23T15:47:27.444887"
+  },
+  "rutas": {
+    "base": "user_data",
+    "proyectos": "user_data/projects",
+    "backups": "user_data/backups",
+    "logs": "user_data/logs"
+  },
+  "base_datos": {
+    "tipo": "SQLite",
+    "ruta": "user_data/database/app.db"
+  },
+  "procesamiento": {
+    "idioma": "es",
+    "modelo_whisper": "tiny",
+    "filtro_ruido": true,
+    "segmentar_silencios": true
+  },
+  "api": {
+    "host": "0.0.0.0",
+    "puerto": 8000,
+    "debug": false
+  }
+}
